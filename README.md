@@ -1,3 +1,4 @@
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
@@ -11,3 +12,6 @@ this is to see what difference it make
 
 ##Wubba lubba dub dub
 I am pickle rick
+
+##In working directory
+I am in working directory now
